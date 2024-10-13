@@ -18,15 +18,18 @@ Install the package locally with:
 ```bash
 python setup.py develop
 ```
+
 3. **Specify the Configurations**  
 
-Specify the necessary parameters in `project_config.yaml` for the optimization.
+Specify the necessary parameters in `project_config.yaml` for the optimization.  
+
 4. **Run the Optimization Loop**  
 
 Execute the optimization process with:
 ```bash
 bash run_closed_loop.sh
 ```
+
 5. **Move the Proposed Compositions to the Experiment Directory**  
 
 Move the generated proposed_composition.csv to the experiment data directory:
@@ -35,7 +38,7 @@ Move the generated proposed_composition.csv to the experiment data directory:
 ```
 project_name is the name of the project you specified in the `project_config.yaml`.
 The `proposed_composition.csv` should contain a 96 × d matrix, where d is the number of RHPs to be blended.
-Once the `tecan_command.csv`is generated, you can start the autonomous experiments by running the Evoware program.
+Once the `tecan_command.csv`is generated, you can start the autonomous experiments by running the Evoware program.  
 
 ## Specify a Customized Sequence  
 
@@ -47,4 +50,4 @@ Run the loop:
 bash run_closed_loop.sh  
 ```
 
-Move the `job_list` to the experiment directory `../Experiments/project_name` and then start the Evoware program.
+Move the `job_list` to the generated experiment directory `../Experiments/project_name` and then start the Evoware program.
