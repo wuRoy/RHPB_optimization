@@ -44,7 +44,9 @@ This project optimizes the composition of RHP blends through iterative closed-lo
     Besides running a autonomous optimization campaign, you could also run a pre-defined sequence of jobs with the system.
     Specify the predefined mode in the `project_config.yaml`. Place your .csv files in a folder called `job_list`.
     Run the loop:
+
     ```bash
     bash run_closed_loop.sh  
     ```
+    
     Move the `job_list` to the experiment directory `../Experiments/project_name` and then start the Evoware program.

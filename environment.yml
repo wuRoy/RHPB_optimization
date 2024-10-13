@@ -1,4 +1,4 @@
-name: RHPB_optimization_2
+name: RHPB_optimization
 channels:
   - defaults
 dependencies:
