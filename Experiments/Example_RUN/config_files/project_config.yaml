@@ -1,0 +1,7 @@
+project_name: Example_RUN  # Project name, could be date or anything else
+total_iteration: 7  # Total iteration of the experiment, if you want to run the predefined composition, this does not matter
+optimization_method: GA_hd  # BO, GA, GA_hd, BO-GA, or predefined
+mode: development # development or experiment. If development, the experiment will run virtually on a toy model.
+polymer_list: ['N1P128'] # List of polymer to be optimized
+Note: 'run a experiments virtually'
+early_stopping: 0 # 0 or 1, if 1, the experiment will stop when the best polymer is found

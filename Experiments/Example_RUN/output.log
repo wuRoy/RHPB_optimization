@@ -1,0 +1,95 @@
+24-Oct-13 05:37:41: 2768597-INFO-Waiting for proposed_composition.csv to be created in round_1 folder
+24-Oct-13 05:37:56: 2768597-INFO-Found it!
+24-Oct-13 05:37:56: 2768597-INFO-Running 1th loop
+24-Oct-13 05:37:56: 2768597-INFO-Tecan is currently printing on round 1.
+24-Oct-13 05:38:29: 2769196-INFO-Running 1th loop
+24-Oct-13 05:38:29: 2769196-INFO-Tecan is currently printing on round 1.
+24-Oct-13 05:38:29: 2769196-INFO-Done!
+24-Oct-13 05:38:29: 2769196-INFO-Tecan is currently running on round 1.
+24-Oct-13 05:38:29: 2769196-INFO-Done!
+24-Oct-13 05:38:29: 2769196-INFO-optimization.py is watching for the raw_data.xxx file of round_1.
+24-Oct-13 05:38:34: 2769196-INFO-Found it!
+24-Oct-13 05:38:34: 2769196-INFO-molgpu is currently running on round 1.
+24-Oct-13 05:38:34: 2769196-INFO-Time taken for optimization is 0.1498579978942871 seconds
+24-Oct-13 05:38:36: 2769196-INFO-Done!
+24-Oct-13 05:38:36: 2769196-INFO-Finished 1th loop
+24-Oct-13 05:38:36: 2769196-INFO-Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+24-Oct-13 05:38:36: 2769196-INFO-Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+24-Oct-13 05:38:48: 2769196-INFO-Running 2th loop
+24-Oct-13 05:38:48: 2769196-INFO-Tecan is currently printing on round 2.
+24-Oct-13 05:38:48: 2769196-INFO-Done!
+24-Oct-13 05:38:48: 2769196-INFO-Tecan is currently running on round 2.
+24-Oct-13 05:38:48: 2769196-INFO-Done!
+24-Oct-13 05:38:48: 2769196-INFO-optimization.py is watching for the raw_data.xxx file of round_2.
+24-Oct-13 05:38:53: 2769196-INFO-Found it!
+24-Oct-13 05:38:53: 2769196-INFO-molgpu is currently running on round 2.
+24-Oct-13 05:38:53: 2769196-INFO-Time taken for optimization is 0.28992462158203125 seconds
+24-Oct-13 05:38:55: 2769196-INFO-Done!
+24-Oct-13 05:38:55: 2769196-INFO-Finished 2th loop
+24-Oct-13 05:38:55: 2769196-INFO-Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+24-Oct-13 05:38:55: 2769196-INFO-Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+24-Oct-13 05:39:08: 2769196-INFO-Running 3th loop
+24-Oct-13 05:39:08: 2769196-INFO-Tecan is currently printing on round 3.
+24-Oct-13 05:39:08: 2769196-INFO-Done!
+24-Oct-13 05:39:08: 2769196-INFO-Tecan is currently running on round 3.
+24-Oct-13 05:39:08: 2769196-INFO-Done!
+24-Oct-13 05:39:08: 2769196-INFO-optimization.py is watching for the raw_data.xxx file of round_3.
+24-Oct-13 05:39:13: 2769196-INFO-Found it!
+24-Oct-13 05:39:13: 2769196-INFO-molgpu is currently running on round 3.
+24-Oct-13 05:39:14: 2769196-INFO-Time taken for optimization is 0.4844932556152344 seconds
+24-Oct-13 05:39:16: 2769196-INFO-Done!
+24-Oct-13 05:39:16: 2769196-INFO-Finished 3th loop
+24-Oct-13 05:39:16: 2769196-INFO-Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+24-Oct-13 05:39:16: 2769196-INFO-Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+24-Oct-13 05:39:29: 2769196-INFO-Running 4th loop
+24-Oct-13 05:39:29: 2769196-INFO-Tecan is currently printing on round 4.
+24-Oct-13 05:39:29: 2769196-INFO-Done!
+24-Oct-13 05:39:29: 2769196-INFO-Tecan is currently running on round 4.
+24-Oct-13 05:39:29: 2769196-INFO-Done!
+24-Oct-13 05:39:29: 2769196-INFO-optimization.py is watching for the raw_data.xxx file of round_4.
+24-Oct-13 05:39:34: 2769196-INFO-Found it!
+24-Oct-13 05:39:34: 2769196-INFO-molgpu is currently running on round 4.
+24-Oct-13 05:39:35: 2769196-INFO-Time taken for optimization is 0.6530799865722656 seconds
+24-Oct-13 05:39:37: 2769196-INFO-Done!
+24-Oct-13 05:39:37: 2769196-INFO-Finished 4th loop
+24-Oct-13 05:39:37: 2769196-INFO-Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+24-Oct-13 05:39:37: 2769196-INFO-Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+24-Oct-13 05:39:51: 2769196-INFO-Running 5th loop
+24-Oct-13 05:39:51: 2769196-INFO-Tecan is currently printing on round 5.
+24-Oct-13 05:39:51: 2769196-INFO-Done!
+24-Oct-13 05:39:51: 2769196-INFO-Tecan is currently running on round 5.
+24-Oct-13 05:39:51: 2769196-INFO-Done!
+24-Oct-13 05:39:51: 2769196-INFO-optimization.py is watching for the raw_data.xxx file of round_5.
+24-Oct-13 05:39:57: 2769196-INFO-Found it!
+24-Oct-13 05:39:57: 2769196-INFO-molgpu is currently running on round 5.
+24-Oct-13 05:39:58: 2769196-INFO-Time taken for optimization is 0.9314584732055664 seconds
+24-Oct-13 05:40:00: 2769196-INFO-Done!
+24-Oct-13 05:40:00: 2769196-INFO-Finished 5th loop
+24-Oct-13 05:40:00: 2769196-INFO-Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+24-Oct-13 05:40:00: 2769196-INFO-Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+24-Oct-13 05:40:15: 2769196-INFO-Running 6th loop
+24-Oct-13 05:40:15: 2769196-INFO-Tecan is currently printing on round 6.
+24-Oct-13 05:40:15: 2769196-INFO-Done!
+24-Oct-13 05:40:15: 2769196-INFO-Tecan is currently running on round 6.
+24-Oct-13 05:40:15: 2769196-INFO-Done!
+24-Oct-13 05:40:15: 2769196-INFO-optimization.py is watching for the raw_data.xxx file of round_6.
+24-Oct-13 05:40:20: 2769196-INFO-Found it!
+24-Oct-13 05:40:20: 2769196-INFO-molgpu is currently running on round 6.
+24-Oct-13 05:40:22: 2769196-INFO-Time taken for optimization is 1.2872886657714844 seconds
+24-Oct-13 05:40:24: 2769196-INFO-Done!
+24-Oct-13 05:40:24: 2769196-INFO-Finished 6th loop
+24-Oct-13 05:40:24: 2769196-INFO-Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+24-Oct-13 05:40:24: 2769196-INFO-Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+24-Oct-13 05:40:40: 2769196-INFO-Running 7th loop
+24-Oct-13 05:40:40: 2769196-INFO-Tecan is currently printing on round 7.
+24-Oct-13 05:40:40: 2769196-INFO-Done!
+24-Oct-13 05:40:40: 2769196-INFO-Tecan is currently running on round 7.
+24-Oct-13 05:40:40: 2769196-INFO-Done!
+24-Oct-13 05:40:40: 2769196-INFO-optimization.py is watching for the raw_data.xxx file of round_7.
+24-Oct-13 05:40:46: 2769196-INFO-Found it!
+24-Oct-13 05:40:46: 2769196-INFO-molgpu is currently running on round 7.
+24-Oct-13 05:40:47: 2769196-INFO-Time taken for optimization is 1.627469539642334 seconds
+24-Oct-13 05:40:49: 2769196-INFO-Done!
+24-Oct-13 05:40:49: 2769196-INFO-Finished 7th loop
+24-Oct-13 05:40:49: 2769196-INFO-Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+24-Oct-13 05:40:49: 2769196-INFO-Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.

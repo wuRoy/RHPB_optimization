@@ -1,0 +1,16 @@
+name: RHPB_optimization_2
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - numpy
+  - seaborn
+  - pyyaml
+  - scikit-learn
+  - matplotlib
+  - pip
+  - setuptools
+  - build
+  - pip:
+      - botorch
+      - quantecon

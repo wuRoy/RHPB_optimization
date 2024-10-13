@@ -1,0 +1,8 @@
+python = 3.10
+numpy
+seaborn
+pyyaml
+scikit-learn
+botorch
+quantecon
+matplotlib
