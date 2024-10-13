@@ -1,6 +1,6 @@
 # RHP Blend Optimization
 
-This project optimizes the composition of RHP blends through iterative closed-loop experiments. Follow the steps below to set up the environment, configure parameters, and run the optimization process.
+This repo contains the code for RHP blends optimization through iterative closed-loop experiments. Follow the steps below to set up the environment, configure parameters, and run the optimization process.
 
 ---
 
