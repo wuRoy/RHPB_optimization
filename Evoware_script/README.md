@@ -33,13 +33,13 @@ pyinstaller --onefile move_recan_rawdata.py
 
 The script used for **low-dimensional optimization** (where the d is less than 12) is:
 
-    \Evoware_script\formal_script\Closed_loop_discovery_heat_challenge.esc
+    ..\Evoware_script\formal_script\Closed_loop_discovery_heat_challenge.esc
 
 ### **High-Dimensional Optimization (n ≥ 12)**
 
 For **high-dimensional optimization**, the following script is used:
 
-    \Evoware_script\formal_script\Closed_loop_discovery_heat_challenge_hd.esc
+    ..\Evoware_script\formal_script\Closed_loop_discovery_heat_challenge_hd.esc
 
 
 ### **Before Running the Scripts:**
