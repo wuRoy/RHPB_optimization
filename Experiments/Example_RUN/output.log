@@ -93,3 +93,16 @@
 24-Oct-13 05:40:49: 2769196-INFO-Finished 7th loop
 24-Oct-13 05:40:49: 2769196-INFO-Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
 24-Oct-13 05:40:49: 2769196-INFO-Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+24-Oct-13 06:27:16: 2792404-INFO-Running 8th loop
+24-Oct-13 06:27:16: 2792404-INFO-Tecan is currently printing on round 8.
+24-Oct-13 06:27:16: 2792404-INFO-Done!
+24-Oct-13 06:27:16: 2792404-INFO-Tecan is currently running on round 8.
+24-Oct-13 06:27:16: 2792404-INFO-Done!
+24-Oct-13 06:27:16: 2792404-INFO-optimization.py is watching for the raw_data.xxx file of round_8.
+24-Oct-13 06:27:21: 2792404-INFO-Found it!
+24-Oct-13 06:27:21: 2792404-INFO-molgpu is currently running on round 8.
+24-Oct-13 06:27:23: 2792404-INFO-Time taken for optimization is 1.7941811084747314 seconds
+24-Oct-13 06:27:25: 2792404-INFO-Done!
+24-Oct-13 06:27:25: 2792404-INFO-Finished 8th loop
+24-Oct-13 06:27:25: 2792404-INFO-Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+24-Oct-13 06:27:25: 2792404-INFO-Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
