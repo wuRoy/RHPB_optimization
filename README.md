@@ -17,7 +17,7 @@ This project optimizes the composition of RHP blends through iterative closed-lo
     python setup.py develop
 
 3. **Specify the Configurations**  
-    Specify the necessary parameters in project_config.yaml to fit the optimization requirements.
+    Specify the necessary parameters in project_config.yaml for the optimization.
 
 4. **Run the Optimization Loop**  
     Execute the optimization process with:
@@ -28,17 +28,18 @@ This project optimizes the composition of RHP blends through iterative closed-lo
     Move the generated proposed_composition.csv to the experiment data directory:
     ```bash
     ../Experiments/project_dir/data/round_1
+
     The proposed_composition.csv should contain a 96 × d matrix, where d is the number of RHPs to be blended.
 
 6. **Specify a Customized Sequence**  
     To use a predefined sequence:
-    Update the project_config.yaml to select predefined mode.
-    Place your .csv files in the job_list directory.
+    Specify the predefined mode in the project_config.yaml.
+    Place your .csv files in a folder called ''job_list''.
     Run the loop:
     ```bash
     bash run_closed_loop.sh
+
     After running, move the .csv files to the experiment directory:
-    ```bash
-    bash run_closed_loop.sh
+
 
 
