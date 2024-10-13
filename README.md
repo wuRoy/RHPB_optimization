@@ -25,6 +25,7 @@ This project optimizes the composition of RHP blends through iterative closed-lo
     bash run_closed_loop.sh
 
 5. **Move the Proposed Compositions to the Experiment Directory**  
+
     Move the generated proposed_composition.csv to the experiment data directory:
     ```bash
     ../Experiments/project_dir/data/round_1
@@ -34,10 +35,10 @@ This project optimizes the composition of RHP blends through iterative closed-lo
 6. **Specify a Customized Sequence**  
     To use a predefined sequence:
     Specify the predefined mode in the project_config.yaml.
-    Place your .csv files in a folder called ''job_list''.
+    Place your .csv files in a folder called `job_list`.
     Run the loop:
     ```bash
-    bash run_closed_loop.sh
+    bash run_closed_loop.sh  
 
     After running, move the .csv files to the experiment directory:
 
