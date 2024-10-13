@@ -44,6 +44,8 @@ For **high-dimensional optimization**, the following script is used:
 
 ### **Before Running the Scripts:**
 
+Import the `Operation_parameters.exd` to the Evoware.
+
 Make sure to update the following paths in the Evoware script:
 - **`nas_project_path`**: Set this to the correct project path on your NAS (Network Attached Storage).
 - **`local_subroutine_path`**: Ensure this is set to the appropriate local path where subroutines are stored.
