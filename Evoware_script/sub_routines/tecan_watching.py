@@ -6,7 +6,8 @@ from pathlib import Path
 import shutil
 import os
 # Evoware need absolute path
-base_dir = Path('//moldata01/homes/autolab/guangqi/tecan_closed_loop/Experiments')
+base_dir = Path('//.../Experiments')  # change this to the absolute path of the Experiments folder
+
 # read the project_name from current_job.csv with pandas
 project_name = pd.read_csv(base_dir / 'current_job.csv')['project_name'][0]
 project_dir = base_dir / project_name

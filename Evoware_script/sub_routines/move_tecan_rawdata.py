@@ -4,8 +4,8 @@ from pathlib import Path
 import shutil
 import os
 # Evoware need absolute path
-base_dir = Path('//moldata01/homes/autolab/guangqi/tecan_closed_loop/Experiments')
-raw_data_path = Path('E:/Guangqi/Cache/Plate_reader_temp')
+base_dir = Path('//.../Experiments')  # change this to the absolute path of the Experiments folder
+raw_data_path = Path('E:/Evoware_script/cache')  # change this to the absolute path of the cache folder for the plate reader files
 
 # read the project_name from current_job.csv with pandas
 project_name = pd.read_csv(base_dir / 'current_job.csv')['project_name'][0]
